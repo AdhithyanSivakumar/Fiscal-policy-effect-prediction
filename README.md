@@ -7,7 +7,7 @@ This project aims to study the impact made by fiscal policies in reducing income
 2. [Data Collection and Processing](#data-collection-and-processing)
 3. [ARIMA Models](#arima-models)
 4. [Enhancing Model Accuracy](#enhancing-model-accuracy)
-5. [LSTM Time Series Model](#lstm-time-series-model)
+5. [Casual Impact](#casual-impact)
 
 
 
@@ -32,7 +32,7 @@ The difference between the predictions of the general trend model and the policy
 
 To increase the accuracy of the models, the project focuses on collecting and synthesizing additional data points that may impact income inequality. This includes exploring additional socio-economic indicators, demographic data, and policy-specific information. By incorporating more relevant features into the models, we aim to improve their predictive power and provide more accurate insights.
 
-## LSTM Time Series Model
+## Casual Impact
 
 In addition to the ARIMA models, the project is also exploring the use of LSTM (Long Short-Term Memory) models for time series analysis. LSTM models are known for their ability to capture long-term dependencies and patterns in sequential data. By incorporating LSTM models, we aim to build optimized time series models that can better understand and predict the impact of fiscal policies on income inequality.
 
